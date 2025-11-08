@@ -34,3 +34,12 @@
 | Orquestrador de Notificações Omnichannel para E-commerce | Intermediário | [Link](/cases/INTERMEDIARIO_OMNI_CHANNEL.md) |
 | Case de Consistência com SAGA Pattern | Intermediário | [Link](/cases/INTERMEDIARIO_SAGA.md) |
 | Case de Ledger REST | Avançado | [Link](/cases/AVANCADO_LEDGER_REST.md) |
+
+## Cases Resolvidos 
+
+### Turma 01 - Descomplicando o System Design 
+
+| Case                  | Link                                                                  |
+|-----------------------|-----------------------------------------------------------------------|
+| Encurtador de Links   | [Draw.io](/cases/turma-1/T1-Case-encurtador-de-links-basico.drawio)   |
+| Busca e Catalogo      | [Draw.io](/cases/turma-1/T1-Case-Busca-Ecommerce.drawio)   |
