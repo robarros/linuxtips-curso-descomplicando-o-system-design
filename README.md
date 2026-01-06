@@ -53,4 +53,5 @@
 | Case                  | Link                                                                  |
 |-----------------------|-----------------------------------------------------------------------|
 | Encurtador de Links   | [Draw.io](/cases/turma-1/T1-Case-encurtador-de-links-basico.drawio)   |
-| Busca e Catalogo      | [Draw.io](/cases/turma-1/T1-Case-Busca-Ecommerce.drawio)   |
+| Busca e Catalogo      | [Draw.io](/cases/turma-1/T1-Case-Busca-Ecommerce.drawio)               |
+| Notificação Omnichannel | [Draw.io](/cases/turma-1/T1-Case-Omnichannel.drawio)                 |
